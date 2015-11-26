@@ -1,0 +1,15 @@
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\bin\Debug\IdlePowerSwitcher.exe.config
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\bin\Debug\IdlePowerSwitcher.exe
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\bin\Debug\IdlePowerSwitcher.pdb
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.csprojResolveAssemblyReference.cache
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.Main.resources
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.Properties.Resources.resources
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.csproj.GenerateResource.Cache
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.exe
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.pdb
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.TrustInfo.xml
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\bin\Debug\IdlePowerSwitcher.exe.manifest
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\bin\Debug\IdlePowerSwitcher.application
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.exe.manifest
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.application
+C:\Users\NickS\OneDrive\Documents\Visual Studio 2015\Projects\IdlePowerSwitcher\obj\Debug\IdlePowerSwitcher.AboutBox.resources
